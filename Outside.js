@@ -21,6 +21,7 @@ function typeWriter()
   }
 }
 
+document.write(5 + 6);
 
 typeWriter();
         
